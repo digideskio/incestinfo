@@ -4,7 +4,9 @@ title: About Incest Life
 permalink: /about/
 ---
 
-**Incest Life** is dedicated to promoting the awareness and anthropological study of healthy, consensual incestuous relationships. _Did you know that incest can form a positive, loving bond between family members?_
+_Did you know that incest can form a positive, loving bond between family members?_
+
+**Incest Life** is an educational website dedicated to promoting the awareness and anthropological study of healthy, consensual incestuous relationships.
 
 [Free study materials provided](/media/), strictly for educational and informational purposes. More information coming soon.
 
