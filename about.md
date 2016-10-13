@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Incest Life
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**Incest Life** is dedicated to promoting the awareness and anthropological study of healthy, consensual incestuous relationships. __Did you know that incest can form a positive, loving bond between family members?__
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+**Free study materials provided**, strictly for educational and informational purposes. More information coming soon.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+__Morpheus__
+
