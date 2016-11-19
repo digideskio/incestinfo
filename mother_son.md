@@ -1,5 +1,5 @@
 ---
-title: Mother Son Photos
+title: Mother/Son
 category: gallery
 layout: page
 permalink: /mother-son/

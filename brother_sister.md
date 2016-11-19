@@ -1,5 +1,5 @@
 ---
-title: Brother Sister Photos
+title: Brother/Sister
 category: gallery
 layout: page
 permalink: /brother-sister/
