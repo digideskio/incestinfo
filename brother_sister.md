@@ -5,8 +5,6 @@ layout: page
 permalink: /brother-sister/
 ---
 
-![341803.jpg](/media/brother_sister/photos/341803.jpg)
-
 ![355393.jpg](/media/brother_sister/photos/355393.jpg)
 
 ![355394.jpg](/media/brother_sister/photos/355394.jpg)
