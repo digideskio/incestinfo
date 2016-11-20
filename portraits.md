@@ -1,5 +1,5 @@
 ---
-title: Portraits
+title: Portraits 
 category: gallery
 layout: page
 permalink: /portraits/
@@ -24,8 +24,6 @@ permalink: /portraits/
 ![326108.JPG](/media/portraits/326108.JPG)
 
 ![326122.JPG](/media/portraits/326122.JPG)
-
-![326128.JPG](/media/portraits/326128.JPG)
 
 ![326134.JPG](/media/portraits/326134.JPG)
 
@@ -100,10 +98,6 @@ permalink: /portraits/
 ![369113.jpg](/media/portraits/369113.jpg)
 
 ![369114.jpg](/media/portraits/369114.jpg)
-
-![326127.jpg](/media/portraits/326127.jpg)
-
-![369115.JPG](/media/portraits/369115.JPG)
 
 ![369116.jpg](/media/portraits/369116.jpg)
 
@@ -266,6 +260,12 @@ permalink: /portraits/
 ![369219.jpg](/media/portraits/369219.jpg)
 
 ![369220.jpg](/media/portraits/369220.jpg)
+
+![326127.jpg](/media/portraits/326127.jpg)
+
+![326128.JPG](/media/portraits/326128.JPG)
+
+![369115.JPG](/media/portraits/369115.JPG)
 
 ![369221.jpg](/media/portraits/369221.jpg)
 
@@ -690,5 +690,107 @@ permalink: /portraits/
 ![369460.jpg](/media/portraits/369460.jpg)
 
 ![369461.jpg](/media/portraits/369461.jpg)
+
+![397790.jpg](/media/portraits/397790.jpg)
+
+![397791.jpg](/media/portraits/397791.jpg)
+
+![397792.jpg](/media/portraits/397792.jpg)
+
+![397793.jpg](/media/portraits/397793.jpg)
+
+![397794.jpg](/media/portraits/397794.jpg)
+
+![397795.jpg](/media/portraits/397795.jpg)
+
+![397796.jpg](/media/portraits/397796.jpg)
+
+![397801.jpg](/media/portraits/397801.jpg)
+
+![397802.jpg](/media/portraits/397802.jpg)
+
+![397803.jpg](/media/portraits/397803.jpg)
+
+![397804.jpg](/media/portraits/397804.jpg)
+
+![397805.jpg](/media/portraits/397805.jpg)
+
+![397806.jpg](/media/portraits/397806.jpg)
+
+![397807.jpg](/media/portraits/397807.jpg)
+
+![397808.jpg](/media/portraits/397808.jpg)
+
+![397809.jpg](/media/portraits/397809.jpg)
+
+![397810.jpg](/media/portraits/397810.jpg)
+
+![397811.jpg](/media/portraits/397811.jpg)
+
+![397812.jpg](/media/portraits/397812.jpg)
+
+![397813.jpg](/media/portraits/397813.jpg)
+
+![398191.jpg](/media/portraits/398191.jpg)
+
+![398192.jpg](/media/portraits/398192.jpg)
+
+![398193.jpg](/media/portraits/398193.jpg)
+
+![398194.jpg](/media/portraits/398194.jpg)
+
+![398195.jpg](/media/portraits/398195.jpg)
+
+![398196.jpg](/media/portraits/398196.jpg)
+
+![398197.jpg](/media/portraits/398197.jpg)
+
+![398198.jpg](/media/portraits/398198.jpg)
+
+![398199.jpg](/media/portraits/398199.jpg)
+
+![398200.jpg](/media/portraits/398200.jpg)
+
+![398201.jpg](/media/portraits/398201.jpg)
+
+![398202.jpg](/media/portraits/398202.jpg)
+
+![398203.jpg](/media/portraits/398203.jpg)
+
+![398204.jpg](/media/portraits/398204.jpg)
+
+![398205.jpg](/media/portraits/398205.jpg)
+
+![398206.jpg](/media/portraits/398206.jpg)
+
+![398207.jpg](/media/portraits/398207.jpg)
+
+![399416.JPG](/media/portraits/399416.JPG)
+
+![399417.JPG](/media/portraits/399417.JPG)
+
+![399418.JPG](/media/portraits/399418.JPG)
+
+![399419.JPG](/media/portraits/399419.JPG)
+
+![399420.JPG](/media/portraits/399420.JPG)
+
+![399421.JPG](/media/portraits/399421.JPG)
+
+![399422.JPG](/media/portraits/399422.JPG)
+
+![399423.JPG](/media/portraits/399423.JPG)
+
+![401305.jpg](/media/portraits/401305.jpg)
+
+![401309.jpg](/media/portraits/401309.jpg)
+
+![401312.jpg](/media/portraits/401312.jpg)
+
+![401320.jpg](/media/portraits/401320.jpg)
+
+![401323.jpg](/media/portraits/401323.jpg)
+
+![582060.jpg](/media/portraits/582060.jpg)
 
 
