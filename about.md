@@ -8,8 +8,6 @@ permalink: /about/
 
 **Warning:** This website contains graphic images of sex between family members. View at your own risk!
 
-![Incest Life](/media/trio_cropped.jpg)
-
 ### Purpose
 
 The Purpose of **Incest Life**  is to show that for some families, __Incest__ (specifically the consensual kind, known as Consanguinamory) is not a bad thing. There are families that practice it safely and without any abuse. These families are persecuted by governments and people who are ignorant to the truth.
@@ -37,4 +35,6 @@ Spain, Netherlands, Switzerland, and Japan (among others) have decriminalized co
 Please visit [Consanguinamory](https://consanguinamory.wordpress.com/) Blog if you are interested in this subject.
 
 _Morpheus.5250_
+
+![Incest Life](/media/trio_cropped.jpg)
 
