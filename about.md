@@ -8,7 +8,7 @@ permalink: /about/
 
 **Warning:** This website contains graphic images of sex between family members. View at your own risk!
 
-![Incest Life](/media/trio_cropped)
+![Incest Life](/media/trio_cropped.jpg)
 
 ### Purpose
 
