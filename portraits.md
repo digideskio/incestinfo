@@ -1,9 +1,12 @@
 ---
-title: Portraits 
+title: Portraits
 category: gallery
 layout: page
-permalink: /portraits/
 ---
+
+![1429199479883.jpg](/media/portraits/1429199479883.jpg)
+
+![1429200820978.jpg](/media/portraits/1429200820978.jpg)
 
 ![325337.JPG](/media/portraits/325337.JPG)
 
@@ -24,6 +27,10 @@ permalink: /portraits/
 ![326108.JPG](/media/portraits/326108.JPG)
 
 ![326122.JPG](/media/portraits/326122.JPG)
+
+![326127.jpg](/media/portraits/326127.jpg)
+
+![326128.JPG](/media/portraits/326128.JPG)
 
 ![326134.JPG](/media/portraits/326134.JPG)
 
@@ -98,6 +105,8 @@ permalink: /portraits/
 ![369113.jpg](/media/portraits/369113.jpg)
 
 ![369114.jpg](/media/portraits/369114.jpg)
+
+![369115.JPG](/media/portraits/369115.JPG)
 
 ![369116.jpg](/media/portraits/369116.jpg)
 
@@ -260,12 +269,6 @@ permalink: /portraits/
 ![369219.jpg](/media/portraits/369219.jpg)
 
 ![369220.jpg](/media/portraits/369220.jpg)
-
-![326127.jpg](/media/portraits/326127.jpg)
-
-![326128.JPG](/media/portraits/326128.JPG)
-
-![369115.JPG](/media/portraits/369115.JPG)
 
 ![369221.jpg](/media/portraits/369221.jpg)
 
@@ -790,6 +793,8 @@ permalink: /portraits/
 ![401320.jpg](/media/portraits/401320.jpg)
 
 ![401323.jpg](/media/portraits/401323.jpg)
+
+![403424.JPG](/media/portraits/403424.JPG)
 
 ![582060.jpg](/media/portraits/582060.jpg)
 

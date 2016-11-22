@@ -1,8 +1,7 @@
 ---
-title: Brother+Sister
+title: Brother/Sister
 category: gallery
 layout: page
-permalink: /brother-sister/
 ---
 
 ![341803.jpg](/media/brother_sister/photos/341803.jpg)
@@ -118,6 +117,18 @@ permalink: /brother-sister/
 ![394864.jpg](/media/brother_sister/photos/394864.jpg)
 
 ![398128.jpg](/media/brother_sister/photos/398128.jpg)
+
+![403423.jpg](/media/brother_sister/photos/403423.jpg)
+
+![408000.jpg](/media/brother_sister/photos/408000.jpg)
+
+![408001.jpg](/media/brother_sister/photos/408001.jpg)
+
+![582019.jpg](/media/brother_sister/photos/582019.jpg)
+
+![582039.jpg](/media/brother_sister/photos/582039.jpg)
+
+![582054.jpg](/media/brother_sister/photos/582054.jpg)
 
 ![582318.jpg](/media/brother_sister/photos/582318.jpg)
 
